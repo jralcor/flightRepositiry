@@ -1,28 +1,26 @@
 {
     "users": [
       {
-        "userId": 1,
+        "nombre": "Hector",
         "id": 1,
-        "title": "delectus aut autem",
-        "completed": false
+        "ciudad": "Lugo",
+        "description": "un tio gallego mu majete"
       },
       {
-        "userId": 1,
+        "nombre": "Jose",
         "id": 2,
-        "title": "delectus aut autem",
-        "completed": false
-      },
-      {
-        "userId": 1,
+        "ciudad": "Málaga",
+        "description": "un crack, el mejor"
+      },      {
+        "nombre": "Lucas",
         "id": 3,
-        "title": "delectus aut autem",
-        "completed": false
-      },
-      {
-        "userId": 1,
+        "ciudad": "Tenerife",
+        "description": "un tio canario que se sube a los árboles"
+      },      {
+        "nombre": "Mario",
         "id": 4,
-        "title": "delectus aut autem",
-        "completed": false
+        "ciudad": "Valencia",
+        "description": "un profe mu simpático"
       }
     ]
   }
