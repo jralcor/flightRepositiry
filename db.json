@@ -5,229 +5,255 @@
         "id": 1,
         "origin": "Lugo",
         "destination": "un tio gallego mu majete",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
     },
     {
         "flight-data": "Jose",
         "id": 2,
         "origin": "Málaga",
         "destination": "un crack, el mejor",
-        "departure-time" : 8.50,
+        "departure-time": 8.5,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
     },
     {
         "flight-data": "Lucas",
         "id": 3,
         "origin": "Tenerife",
         "destination": "un tio canario que se sube a los árboles",
-        "departure-time" : 8.85,
+        "departure-time": 8.85,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
     },
     {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
     },
     {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    },    {
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
         "flight-data": "Mario",
         "id": 4,
         "origin": "Valencia",
         "destination": "un profe mu simpático",
-        "departure-time" : 8.45,
+        "departure-time": 8.45,
         "arrival-time": 12,
         "direct-flight": true,
-        "scales" : {
-            "first-scale" : "Málaga",
-            "second-scale" : "Luego"
+        "scales": {
+        "first-scale": "Málaga",
+        "second-scale": "Luego"
+    },
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+    },
+    {
+        "flight-data": "Mario",
+        "id": 4,
+        "origin": "Valencia",
+        "destination": "un profe mu simpático",
+        "departure-time": 8.45,
+        "arrival-time": 12,
+        "direct-flight": true,
+        "scales": {
+            "first-scale": "Málaga",
+            "second-scale": "Luego"
         },
-        "company" : "Iberia",
-        "price" : 1000,
-        "img" : "http:/iberia.com",
-        "hand luggage" : true
-    }
+        "company": "Iberia",
+        "price": 1000,
+        "img": "http:/iberia.com",
+        "hand luggage": true
+        }
     ]
 }
