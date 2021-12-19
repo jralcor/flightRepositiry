@@ -1,259 +1,259 @@
 {
     "flights": [
     {
-        "flight-data": "Hector",
-        "id": 1,
-        "origin": "Lugo",
-        "destination": "un tio gallego mu majete",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "flightData": "25/08/2021",
+        "id": "1572IBE",
+        "origin": "Santiago",
+        "destination": "Málaga",
+        "departureTime": 11.45,
+        "arrivalTime": 13.25,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": "Santiago"
         },
         "company": "Iberia",
-        "price": 1000,
+        "price": 120,
         "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
     },
     {
-        "flight-data": "Jose",
-        "id": 2,
+        "flightData": "25/08/2021",
+        "id": "1525VUY",
         "origin": "Málaga",
-        "destination": "un crack, el mejor",
-        "departure-time": 8.5,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "destination": "Madrid",
+        "departureTime": 8.5,
+        "arrivalTime": 12,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": ""
         },
-        "company": "Iberia",
-        "price": 1000,
+        "company": "Vueling",
+        "price": 100,
         "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
     },
     {
-        "flight-data": "Lucas",
-        "id": 3,
+        "flightData": "25/08/2021",
+        "id": "14572IBE",
         "origin": "Tenerife",
-        "destination": "un tio canario que se sube a los árboles",
-        "departure-time": 8.85,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "destination": "Mallorca",
+        "departureTime": 8.85,
+        "arrivalTime": 12,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": ""
         },
         "company": "Iberia",
-        "price": 1000,
+        "price": 110,
         "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
     },
     {
-        "flight-data": "Mario",
-        "id": 4,
+        "flightData": "25/08/2021",
+        "id": "1582RYA",
         "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "destination": "Barcelona",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": ""
+        },
+        "company": "Ryanair",
+        "price": 90,
+        "img": "http:/iberia.com",
+        "handLugagge": true
+    },
+    {
+        "flightData": "25/08/2021",
+        "id": "2592IBE",
+        "origin": "Madrid",
+        "destination": "Londres",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
+        "scales": {
+        "firstScale": "Málaga",
+        "secondScale": "Santiago"
         },
         "company": "Iberia",
-        "price": 1000,
+        "price": 125,
         "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
     },
     {
-        "flight-data": "Mario",
-        "id": 4,
+        "flightData": "25/08/2021",
+        "id": "1572RYA",
         "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "destination": "Roma",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": ""
+        },
+        "company": "Ryanair",
+        "price": 137,
+        "img": "http:/iberia.com",
+        "handLugagge": true
+    },
+    {
+        "flightData": "25/08/2021",
+        "id": "4589IBE",
+        "origin": "Madrid",
+        "destination": "Paris",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
+        "scales": {
+        "firstScale": "Málaga",
+        "secondScale": ""
         },
         "company": "Iberia",
-        "price": 1000,
+        "price": 98,
         "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
     },
     {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "flightData": "25/08/2021",
+        "id": "8752RYA",
+        "origin": "Sevilla",
+        "destination": "Lisboa",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": ""
+        },
+        "company": "Rynair",
+        "price": 49,
+        "img": "http:/iberia.com",
+        "handLugagge": true
+    },
+    {
+        "flightData": "25/08/2021",
+        "id": "8968IBE",
+        "origin": "Santiago",
+        "destination": "Bilbao",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
+        "scales": {
+        "firstScale": "Málaga",
+        "secondScale": ""
         },
         "company": "Iberia",
-        "price": 1000,
+        "price": 56,
         "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
     },
     {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "flightData": "25/08/2021",
+        "id": "4500VUY",
+        "origin": "Barcelona",
+        "destination": "Málaga",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": ""
+        },
+        "company": "Vueling",
+        "price": 89,
+        "img": "http:/iberia.com",
+        "handLugagge": true
+    },
+    {
+        "flightData": "25/08/2021",
+        "id": "5858IBE",
+        "origin": "Roma",
+        "destination": "Berlin",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
+        "scales": {
+        "firstScale": "Málaga",
+        "secondScale": ""
         },
         "company": "Iberia",
-        "price": 1000,
+        "price": 92,
         "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
     },
     {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
+        "flightData": "25/08/2021",
+        "id": "9999KLI",
+        "origin": "Sevilla",
+        "destination": "Marsella",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
         "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
+        "firstScale": "Málaga",
+        "secondScale": ""
+        },
+        "company": "Karline Airlines",
+        "price": 78,
+        "img": "http:/iberia.com",
+        "handLugagge": true
+    },
+    {
+        "flightData": "25/08/2021",
+        "id": "8574VUY",
+        "origin": "Madrid",
+        "destination": "Granada",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
+        "scales": {
+        "firstScale": "Málaga",
+        "secondScale": ""
+        },
+        "company": "Vueling",
+        "price": 26,
+        "img": "http:/iberia.com",
+        "handLugagge": true
+    },
+    {
+        "flightData": "25/08/2021",
+        "id": "8574ASA",
+        "origin": "Valencia",
+        "destination": "Mallorca",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
+        "scales": {
+        "firstScale": "Málaga",
+        "secondScale": ""
+    },
+        "company": "Aerolineas Argentinas",
+        "price": 100,
+        "img": "http:/iberia.com",
+        "handLugagge": true
+    },
+    {
+        "flightData": "25/08/2021",
+        "id": "9874IBE",
+        "origin": "Santiago",
+        "destination": "Dublin",
+        "departureTime": 8.45,
+        "arrivalTime": 12,
+        "directFlight": true,
+        "scales": {
+            "firstScale": "Málaga",
+            "secondScale": ""
         },
         "company": "Iberia",
-        "price": 1000,
+        "price": 59,
         "img": "http:/iberia.com",
-        "hand luggage": true
-    },
-    {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
-        "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
-        },
-        "company": "Iberia",
-        "price": 1000,
-        "img": "http:/iberia.com",
-        "hand luggage": true
-    },
-    {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
-        "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
-        },
-        "company": "Iberia",
-        "price": 1000,
-        "img": "http:/iberia.com",
-        "hand luggage": true
-    },
-    {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
-        "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
-        },
-        "company": "Iberia",
-        "price": 1000,
-        "img": "http:/iberia.com",
-        "hand luggage": true
-    },
-    {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
-        "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
-        },
-        "company": "Iberia",
-        "price": 1000,
-        "img": "http:/iberia.com",
-        "hand luggage": true
-    },
-    {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
-        "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
-        },
-        "company": "Iberia",
-        "price": 1000,
-        "img": "http:/iberia.com",
-        "hand luggage": true
-    },
-    {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
-        "scales": {
-        "first-scale": "Málaga",
-        "second-scale": "Luego"
-    },
-        "company": "Iberia",
-        "price": 1000,
-        "img": "http:/iberia.com",
-        "hand luggage": true
-    },
-    {
-        "flight-data": "Mario",
-        "id": 4,
-        "origin": "Valencia",
-        "destination": "un profe mu simpático",
-        "departure-time": 8.45,
-        "arrival-time": 12,
-        "direct-flight": true,
-        "scales": {
-            "first-scale": "Málaga",
-            "second-scale": "Luego"
-        },
-        "company": "Iberia",
-        "price": 1000,
-        "img": "http:/iberia.com",
-        "hand luggage": true
+        "handLugagge": true
         }
     ]
 }
