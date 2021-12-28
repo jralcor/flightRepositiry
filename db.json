@@ -1,259 +1,311 @@
 {
     "flights": [
-    {
+      {
         "flightData": "25/08/2021",
         "id": "1572IBE",
-        "origin": "Santiago",
+        "origin": "Santiago de Compostela",
         "destination": "Málaga",
         "departureTime": 11.45,
         "arrivalTime": 13.25,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": "Santiago"
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Iberia",
-        "price": 120,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 90,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "1525VUY",
         "origin": "Málaga",
         "destination": "Madrid",
-        "departureTime": 8.5,
-        "arrivalTime": 12,
+        "departureTime": 8.30,
+        "arrivalTime": 10,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Vueling",
-        "price": 100,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+        "price": 67,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "14572IBE",
         "origin": "Tenerife",
         "destination": "Mallorca",
-        "departureTime": 8.85,
-        "arrivalTime": 12,
-        "directFlight": true,
+        "departureTime": 8.30,
+        "arrivalTime": 13.45,
+        "directFlight": false,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "Madrid",
+          "secondScale": ""
         },
         "company": "Iberia",
-        "price": 110,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 72,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "1582RYA",
         "origin": "Valencia",
         "destination": "Barcelona",
         "departureTime": 8.45,
-        "arrivalTime": 12,
+        "arrivalTime": 9.50,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Ryanair",
+        "companyLogo": "https://lh3.googleusercontent.com/proxy/GhsPjTfwdf2xD2G3BpnbmCQCf6bPQQxIxya94GkZE3y9h6t1dWdCUFBBvMxKGz3HV1UUn60yAQJW24yo4JmW9Yr6npAJXRZ2H_mlnFRYnepIteNGbp7jd5qb",
         "price": 90,
-        "img": "http:/iberia.com",
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "2592IBE",
         "origin": "Madrid",
-        "destination": "Londres",
+        "destination": "Ibiza",
         "departureTime": 8.45,
         "arrivalTime": 12,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": "Santiago"
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Iberia",
-        "price": 125,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 47,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "1572RYA",
         "origin": "Valencia",
-        "destination": "Roma",
+        "destination": "Las Palmas de Gran Canaria",
         "departureTime": 8.45,
-        "arrivalTime": 12,
-        "directFlight": true,
+        "arrivalTime": 13.30,
+        "directFlight": false,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "Madrid",
+          "secondScale": ""
         },
         "company": "Ryanair",
-        "price": 137,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://lh3.googleusercontent.com/proxy/GhsPjTfwdf2xD2G3BpnbmCQCf6bPQQxIxya94GkZE3y9h6t1dWdCUFBBvMxKGz3HV1UUn60yAQJW24yo4JmW9Yr6npAJXRZ2H_mlnFRYnepIteNGbp7jd5qb",
+        "price": 90,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "4589IBE",
-        "origin": "Madrid",
-        "destination": "Paris",
+        "origin": "Vigo",
+        "destination": "Menorca",
         "departureTime": 8.45,
-        "arrivalTime": 12,
-        "directFlight": true,
+        "arrivalTime": 13.30,
+        "directFlight": false,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "Barcelona",
+          "secondScale": ""
         },
         "company": "Iberia",
-        "price": 98,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 54,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "8752RYA",
         "origin": "Sevilla",
-        "destination": "Lisboa",
+        "destination": "Asturias",
         "departureTime": 8.45,
-        "arrivalTime": 12,
+        "arrivalTime": 11,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Rynair",
-        "price": 49,
-        "img": "http:/iberia.com",
+        "price": 59,
+        "companyLogo": "https://lh3.googleusercontent.com/proxy/GhsPjTfwdf2xD2G3BpnbmCQCf6bPQQxIxya94GkZE3y9h6t1dWdCUFBBvMxKGz3HV1UUn60yAQJW24yo4JmW9Yr6npAJXRZ2H_mlnFRYnepIteNGbp7jd5qb",
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "8968IBE",
         "origin": "Santiago",
         "destination": "Bilbao",
         "departureTime": 8.45,
-        "arrivalTime": 12,
+        "arrivalTime": 10.15,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
-        "company": "Iberia",
-        "price": 56,
-        "img": "http:/iberia.com",
+        "company": "Vueling",
+        "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+        "price": 44,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "4500VUY",
         "origin": "Barcelona",
         "destination": "Málaga",
         "departureTime": 8.45,
-        "arrivalTime": 12,
+        "arrivalTime": 10,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Vueling",
-        "price": 89,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+        "price": 79,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "5858IBE",
-        "origin": "Roma",
-        "destination": "Berlin",
-        "departureTime": 8.45,
-        "arrivalTime": 12,
-        "directFlight": true,
+        "origin": "Barcelona",
+        "destination": "A Coruña",
+        "departureTime": 13.00,
+        "arrivalTime": 16.30,
+        "directFlight": false,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "Madrid",
+          "secondScale": ""
         },
         "company": "Iberia",
-        "price": 92,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 62,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "9999KLI",
-        "origin": "Sevilla",
-        "destination": "Marsella",
-        "departureTime": 8.45,
-        "arrivalTime": 12,
+        "origin": "Palma de Mallorca",
+        "destination": "Lanzarote",
+        "departureTime": 16.30,
+        "arrivalTime": 19.45,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
-        "company": "Karline Airlines",
-        "price": 78,
-        "img": "http:/iberia.com",
+        "company": "Ryanair",
+        "companyLogo": "https://lh3.googleusercontent.com/proxy/GhsPjTfwdf2xD2G3BpnbmCQCf6bPQQxIxya94GkZE3y9h6t1dWdCUFBBvMxKGz3HV1UUn60yAQJW24yo4JmW9Yr6npAJXRZ2H_mlnFRYnepIteNGbp7jd5qb",
+        "price": 108,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "8574VUY",
         "origin": "Madrid",
         "destination": "Granada",
         "departureTime": 8.45,
-        "arrivalTime": 12,
+        "arrivalTime": 9.30,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Vueling",
+        "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
         "price": 26,
-        "img": "http:/iberia.com",
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-    },
-    {
+      },
+      {
         "flightData": "25/08/2021",
         "id": "8574ASA",
-        "origin": "Valencia",
-        "destination": "Mallorca",
+        "origin": "Tenerife",
+        "destination": "Madrid",
         "departureTime": 8.45,
-        "arrivalTime": 12,
+        "arrivalTime": 12.30,
         "directFlight": true,
         "scales": {
-        "firstScale": "Málaga",
-        "secondScale": ""
-    },
-        "company": "Aerolineas Argentinas",
-        "price": 100,
-        "img": "http:/iberia.com",
-        "handLugagge": true
-    },
-    {
-        "flightData": "25/08/2021",
-        "id": "9874IBE",
-        "origin": "Santiago",
-        "destination": "Dublin",
-        "departureTime": 8.45,
-        "arrivalTime": 12,
-        "directFlight": true,
-        "scales": {
-            "firstScale": "Málaga",
-            "secondScale": ""
+          "firstScale": "",
+          "secondScale": ""
         },
         "company": "Iberia",
-        "price": 59,
-        "img": "http:/iberia.com",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 130,
+        "cityImg": "http:/iberia.com",
         "handLugagge": true
-        }
+      },
+      {
+        "flightData": "25/08/2021",
+        "id": "9874IBE",
+        "origin": "Ibiza",
+        "destination": "Las Palmas de Gran Canaria",
+        "departureTime": 8.45,
+        "arrivalTime": 17.30,
+        "directFlight": false,
+        "scales": {
+          "firstScale": "Barcelona",
+          "secondScale": "Madrid"
+        },
+        "company": "Iberia",
+        "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+        "price": 64,
+        "cityImg": "http:/iberia.com",
+        "handLugagge": true
+      },
+      {
+        "flightData": "25/08/2021",
+        "id": "8914VUY",
+        "origin": "Madrid",
+        "destination": "Asturias",
+        "departureTime": 8.45,
+        "arrivalTime": 9.30,
+        "directFlight": true,
+        "scales": {
+          "firstScale": "",
+          "secondScale": ""
+        },
+        "company": "Vueling",
+        "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+        "price": 31,
+        "cityImg": "http:/iberia.com",
+        "handLugagge": true
+      },
+      {
+        "flightData": "25/08/2021",
+        "id": "8574VUY",
+        "origin": "Asturias",
+        "destination": "Menorca",
+        "departureTime": 19.45,
+        "arrivalTime": 22.30,
+        "directFlight": false,
+        "scales": {
+          "firstScale": "Madrid",
+          "secondScale": ""
+        },
+        "company": "Vueling",
+        "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+        "price": 42,
+        "cityImg": "http:/iberia.com",
+        "handLugagge": true
+      }
     ]
-}
+  }
+  
