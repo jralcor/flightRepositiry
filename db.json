@@ -24,7 +24,7 @@
         "origin": "Málaga",
         "destination": "Madrid",
         "departureTime": 8.30,
-        "arrivalTime": 10,
+        "arrivalTime": 10.00,
         "directFlight": true,
         "scales": {
           "firstScale": "",
@@ -78,7 +78,7 @@
         "origin": "Madrid",
         "destination": "Ibiza",
         "departureTime": 8.45,
-        "arrivalTime": 12,
+        "arrivalTime": 12.00,
         "directFlight": true,
         "scales": {
           "firstScale": "",
@@ -132,7 +132,7 @@
         "origin": "Sevilla",
         "destination": "Oviedo",
         "departureTime": 8.45,
-        "arrivalTime": 11,
+        "arrivalTime": 11.00,
         "directFlight": true,
         "scales": {
           "firstScale": "",
@@ -168,7 +168,7 @@
         "origin": "Barcelona",
         "destination": "Málaga",
         "departureTime": 8.45,
-        "arrivalTime": 10,
+        "arrivalTime": 10.00,
         "directFlight": true,
         "scales": {
           "firstScale": "",
